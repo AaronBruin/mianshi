@@ -1,0 +1,44 @@
+{
+  "id": "3938970",
+  "name": "mianshi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1253",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5026",
+      "name": "图书",
+      "font_class": "tushu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "587073",
+      "name": "rocket",
+      "font_class": "rocket",
+      "unicode": "e7d9",
+      "unicode_decimal": 59353
+    },
+    {
+      "icon_id": "15061494",
+      "name": "电脑整机",
+      "font_class": "diannaozhengji",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "16479810",
+      "name": "校园",
+      "font_class": "xiaoyuan",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    }
+  ]
+}

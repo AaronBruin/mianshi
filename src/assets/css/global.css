@@ -1,0 +1,56 @@
+/* 全局样式表 */
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+/* 状态一: 未被访问过的链接 */
+a:link {
+  text-decoration: none;
+  color: #000;
+}
+
+/* 状态二: 已经访问过的链接 */
+a:visited {
+  text-decoration: none;
+  color: #000;
+}
+
+/* 状态三: 鼠标划过(停留)的链接(默认红色) */
+a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+/* 状态四: 被点击的链接 */
+a:active {
+  text-decoration: none;
+  color: #000;
+}
+span{
+  -webkit-user-select:none ;
+  -moz-user-select:none;
+}
+.center_in {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.space-between_in {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
